@@ -21,6 +21,7 @@ routes = [
    { pattern = "ghcr.ddfun.online", custom_domain = true },
    { pattern = "cloudsmith.ddfun.online", custom_domain = true },
  ]
+ 
 
 [env.production.vars]
 MODE = "production"
