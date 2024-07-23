@@ -30,11 +30,11 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.dd.family": "https://registry-1.docker.io",
-     "quay.dd.family": "https://quay.io",
-     "gcr.dd.family": "https://k8s.gcr.io",
-     "k8s-gcr.dd.family": "https://k8s.gcr.io",
-     "ghcr.dd.family": "https://ghcr.io",
+     "docker.ddfun.online": "https://registry-1.docker.io",
+     "quay.ddfun.online": "https://quay.io",
+     "gcr.ddfun.online": "https://k8s.gcr.io",
+     "k8s-gcr.ddfun.online": "https://k8s.gcr.io",
+     "ghcr.ddfun.online": "https://ghcr.io",
    };
    ```
 
